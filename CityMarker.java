@@ -7,7 +7,6 @@ import processing.core.PConstants;
 import processing.core.PGraphics;
 
 /** Implements a visual marker for cities on an earthquake map
- * 
  * @author Praveen Sankaranarayanan
  */
 public class CityMarker extends CommonMarker {
