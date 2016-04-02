@@ -10,7 +10,6 @@ import processing.core.PGraphics;
 
 /** 
  * A class to represent AirportMarkers on a world map.
- *   
  * @author Praveen Sankaranarayanan
  *
  */
