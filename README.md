@@ -28,7 +28,7 @@ Earthquake data was obtained from this USGS [link](http://earthquake.usgs.gov/ea
 * Clicking on an earthquake displays the cities that could be affected by it (threat radius)
 * Hovering over a city displays its name, country and population
 * Clicking on a city displays the earthquakes around it
-* 
+
 ## Airport plot features
 * Hovering over an airport displays its name, airport code and city
 * Clicking an airport displays all routes out of it
