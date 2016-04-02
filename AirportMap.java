@@ -23,7 +23,6 @@ import processing.core.PGraphics;
 /** An applet that shows airports (and routes)
  * on a world map.  
  * @author Praveen Sankaranarayanan
- *
  */
 public class AirportMap extends PApplet {
 	
