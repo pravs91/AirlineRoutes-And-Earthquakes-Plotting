@@ -7,7 +7,7 @@ import processing.core.PGraphics;
 
 /** Implements a common marker for cities and earthquakes on an earthquake map
  * 
- * @author Praveen Sankaranarayanan
+ * @author Praveen Sankar
  *
  */
 public abstract class CommonMarker extends SimplePointMarker {
