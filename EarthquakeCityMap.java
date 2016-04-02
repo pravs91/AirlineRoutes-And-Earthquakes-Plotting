@@ -22,7 +22,8 @@ import processing.core.PApplet;
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
  * @author Praveen Sankaranarayanan
- * */
+ * 
+ */
 public class EarthquakeCityMap extends PApplet {
 	
 	// You can ignore this.  It's to get rid of eclipse warnings
